@@ -11,3 +11,5 @@ int main() {
 
     return(0);
 }
+
+// I thought I don't hate Windows in particular but I really do sometimes hate Windows.
