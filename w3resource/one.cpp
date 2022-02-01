@@ -14,5 +14,5 @@ int main() {
 
 // I thought I don't hate Windows in particular but I really do sometimes hate Windows.
 // By the way, my mother in law using her phone mainly in speaker mode so I hear every phone call she has.
-// Especially with her sister - her sister has really strong voice. The Voice - voice of god. She is strongly devout to God,
+// Especially with her sister - her sister has really strong voice. The Voice - the voice of god. She is strongly devout to God,
 // so with her Voice, every phone call I have to witness is Purgatory. Thanks technology. God bless.
