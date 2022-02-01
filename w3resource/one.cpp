@@ -1,6 +1,7 @@
 // Basic stuff.
 // Exercise number one.
 // Write a program in Cpp to print a welcome text in a seperate line.
+// How many hello worlds I wrote in my life?
 
 #include <iostream>
 
